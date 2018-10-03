@@ -12,7 +12,7 @@
 		EA1BB9092142D93D00028A57 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA1BB9072142D93D00028A57 /* Main.storyboard */; };
 		EA1BB90B2142D93F00028A57 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA1BB90A2142D93F00028A57 /* Assets.xcassets */; };
 		EA1BB90E2142D93F00028A57 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA1BB90C2142D93F00028A57 /* LaunchScreen.storyboard */; };
-		EA87C218214ECE8600B5EDF4 /* Hello-World.png in Resources */ = {isa = PBXBuildFile; fileRef = EA87C217214ECE8600B5EDF4 /* Hello-World.png */; };
+		FEA435AB215CB732007D93C7 /* Hello-World.png in Resources */ = {isa = PBXBuildFile; fileRef = FEA435AA215CB731007D93C7 /* Hello-World.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		EA1BB90A2142D93F00028A57 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EA1BB90D2142D93F00028A57 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA1BB90F2142D93F00028A57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EA87C217214ECE8600B5EDF4 /* Hello-World.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Hello-World.png"; path = "/Users/jesus/Desktop/Isa/Hola Mundo/Hola Mundo/Hola Mundo/Images.xcassets/Hello-World.png"; sourceTree = "<absolute>"; };
+		FEA435AA215CB731007D93C7 /* Hello-World.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Hello-World.png"; path = "Hola Mundo/Images.xcassets/Hello-World.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,7 +42,7 @@
 			children = (
 				EA1BB9022142D93D00028A57 /* Hola Mundo */,
 				EA1BB9012142D93D00028A57 /* Products */,
-				EA87C217214ECE8600B5EDF4 /* Hello-World.png */,
+				FEA435AA215CB731007D93C7 /* Hello-World.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -125,10 +125,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FEA435AB215CB732007D93C7 /* Hello-World.png in Resources */,
 				EA1BB90E2142D93F00028A57 /* LaunchScreen.storyboard in Resources */,
 				EA1BB90B2142D93F00028A57 /* Assets.xcassets in Resources */,
 				EA1BB9092142D93D00028A57 /* Main.storyboard in Resources */,
-				EA87C218214ECE8600B5EDF4 /* Hello-World.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
